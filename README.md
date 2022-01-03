@@ -3,8 +3,10 @@ A collection of resources from Amath 301 written by the TAs. Authorship of each 
 
 ## The TAs/Repository Authors
 
-Michael Kupperman, `kupperma at uw dot edu`
-Hongda Li, `hongdali at uw dot edu`
+* Michael Kupperman, `kupperma at uw dot edu`
+* Hongda Li, `hongdali at uw dot edu`
+
+## Adding documents
 
 Are you an Amath 301 TA and want to preserve your resources on the internet? 
 1. Fork this repository
